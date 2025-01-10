@@ -1,5 +1,5 @@
 # Trample Steam Build Guide
-Parts must be put into the buld table in the spawn building\
+Parts must be put into the build table in the spawn building\
 \
 ![alt text](images/img37.png)
 
