@@ -1,4 +1,4 @@
-# Die Rise Rictofen Main Quest Guide
+# Die Rise Richtofen Main Quest Guide
 
 ## Recommended setup:
 * Store enough points in the bank to open up the whole map on round 1
